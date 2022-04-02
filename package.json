@@ -1,0 +1,14 @@
+{
+  "name": "tailwindcss-masks",
+  "version": "0.0.1",
+  "description": "A Masks Plugin for TailwindCSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roman Baiocco",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.0.23"
+  }
+}
